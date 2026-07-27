@@ -31,5 +31,5 @@ Senior Backend Engineer with 5 years of experience building scalable backend sys
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ankit-kumar-sinha/
+- Email:  sinhaa.aankit@gmail.com
