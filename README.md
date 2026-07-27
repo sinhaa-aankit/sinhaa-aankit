@@ -2,6 +2,16 @@
 
 Senior Backend Engineer with 5 years of experience building scalable backend systems for enterprise banking and payment platforms.
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
 ## 🚀 Tech Stack
 
 - Node.js
