@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ankit Kumar Sinha 👋
 
-<!--
-**sinhaa-aankit/sinhaa-aankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 5 years of experience building scalable backend systems for enterprise banking and payment platforms.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- JavaScript
+- Express.js
+- MongoDB
+- Redis
+- Docker
+- Kubernetes
+- REST APIs
+- Git
+
+## 💼 What I Do
+
+- Build scalable backend services
+- Design REST APIs
+- Optimize performance and reliability
+- Database migrations
+- Production support and RCA
+- Banking & Payment Systems
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- System Design
+- AI-powered Backend Applications
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your-email@example.com
